@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebb53e72-e1ff-4b0b-becd-33741761c510" name="Changes" comment="Added Contact Us page &#10;&gt;&gt;added select box option&#10;&gt;&gt; add info to the contact US" />
+    <list default="true" id="ebb53e72-e1ff-4b0b-becd-33741761c510" name="Changes" comment="created environmental password." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711483138201</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="created environmental password.">
+      <option name="closed" value="true" />
+      <created>1711484577229</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711484577229</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -95,6 +103,7 @@
     <MESSAGE value="Intial Commit with main page added" />
     <MESSAGE value="Added images, description, title, changed width to wide" />
     <MESSAGE value="Added Contact Us page &#10;&gt;&gt;added select box option&#10;&gt;&gt; add info to the contact US" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Contact Us page &#10;&gt;&gt;added select box option&#10;&gt;&gt; add info to the contact US" />
+    <MESSAGE value="created environmental password." />
+    <option name="LAST_COMMIT_MESSAGE" value="created environmental password." />
   </component>
 </project>
